@@ -1,0 +1,7 @@
+D:\Assignment2\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+D:\Assignment2\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+D:\Assignment2\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+D:\Assignment2\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+D:\Assignment2\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Assignment2\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+D:\Assignment2\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
